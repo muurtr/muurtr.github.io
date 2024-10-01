@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://muurtr.github.io/jVs/sitemap.jVs.gz
